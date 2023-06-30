@@ -7,5 +7,5 @@ And(/^I see Sq Kilometre in From header$/) do
 end
 
 And(/^I see Sq Metre in To header$/) do
-  puts("Saw Sq Mtr in To header")
+  puts("Saw Sq Mtr in To header ")
 end
